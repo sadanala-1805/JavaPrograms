@@ -1,11 +1,10 @@
-import java.util.Scanner;
-
+import java.util.Scanner;\
 class ElectricityBills {
-    private int consumerNo;
-    private String consumerName;
-    private int previousReading;
-    private int currentReading;
-    private String connectionType;
+    int consumerNo;
+    String consumerName;
+    int previousReading;
+    int currentReading;
+    String connectionType;
 
     public ElectricityBills(int consumerNo, String consumerName, int previousReading, int currentReading, String connectionType) {
         this.consumerNo = consumerNo;

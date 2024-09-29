@@ -1,5 +1,3 @@
-package aimlAssignments;
-
 import java.util.Scanner;
 
 class ElectricityBills {
